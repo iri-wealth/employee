@@ -1,0 +1,2 @@
+# employee
+simple django project 
